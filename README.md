@@ -41,7 +41,7 @@ Uso IA no dia a dia de desenvolvimento (pair programming, code review e geraçã
 **Frameworks, bancos e infraestrutura**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,react,laravel,vue,prisma,postgres,mysql,mongodb,dynamodb,redis,rabbitmq,docker,aws,jest,playwright,git&perline=12" alt="stack" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,react,laravel,vue,prisma,postgres,mysql,mongodb,dynamodb,redis,rabbitmq,docker,aws,jest,git&perline=12" alt="stack" />
 </p>
 
 ### 📫 Contato

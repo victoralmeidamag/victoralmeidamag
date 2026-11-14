@@ -5,7 +5,7 @@
 
 ### 🚀 Sobre mim
 
-Sou engenheiro de software com mais de 4 anos construindo sistemas backend em produção, de APIs REST a microsserviços orientados a eventos. Comecei com PHP/Laravel e hoje trabalho principalmente com Node.js, NestJS e TypeScript na AWS, sempre com foco em arquitetura escalável, observabilidade e qualidade de código.
+Sou engenheiro de software com mais de 5 anos construindo sistemas backend em produção, de APIs REST a microsserviços orientados a eventos. Comecei com PHP/Laravel e hoje trabalho principalmente com Node.js, NestJS e TypeScript na AWS, sempre com foco em arquitetura escalável, observabilidade e qualidade de código.
 
 Uso IA no dia a dia de desenvolvimento (pair programming, code review e geração de testes) para entregar mais rápido sem abrir mão da confiabilidade.
 

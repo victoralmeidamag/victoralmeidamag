@@ -1,11 +1,11 @@
 <h1 align="center">Olá, eu sou o Victor Magalhães 👋</h1>
-<p align="center"><b>Engenheiro de Software Sênior</b> · Node.js · NestJS · TypeScript · React · AWS</p>
+<p align="center"><b>Engenheiro de Software Sênior · Fullstack</b> · Node.js · NestJS · TypeScript · React · AWS</p>
 
 ---
 
 ### 🚀 Sobre mim
 
-Sou engenheiro de software com mais de 5 anos construindo sistemas backend em produção, de APIs REST a microsserviços orientados a eventos. Comecei com PHP/Laravel e hoje trabalho principalmente com Node.js, NestJS e TypeScript na AWS, sempre com foco em arquitetura escalável, observabilidade e qualidade de código.
+Sou engenheiro de software com mais de 5 anos construindo sistemas fullstack (backend e frontend) em produção, de interfaces em React e Vue a APIs REST e microsserviços orientados a eventos. Comecei com PHP/Laravel e hoje trabalho principalmente com Node.js, NestJS e TypeScript na AWS, sempre com foco em arquitetura escalável, observabilidade e qualidade de código.
 
 Uso IA no dia a dia de desenvolvimento (pair programming, code review e geração de testes) para entregar mais rápido sem abrir mão da confiabilidade.
 

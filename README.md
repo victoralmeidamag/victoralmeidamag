@@ -23,11 +23,6 @@
 ### 📊 Estatísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=victoralmeidamag&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&locale=pt-br" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoralmeidamag&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" alt="Top langs" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=victoralmeidamag&theme=github-dark-blue&hide_border=true&locale=pt_BR" alt="Streak" />
 </p>
 
